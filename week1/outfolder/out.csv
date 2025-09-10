@@ -1,0 +1,16 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\scott\sys-320_fall_2025\week1\firstfile.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\scott\sys-320_fall_2025\week1","firstfile.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\scott\sys-320_fall_2025\week1\firstfile.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","firstfile","System.Collections.Generic.List`1[System.String]",,"firstfile.ps1","22","C:\Users\scott\sys-320_fall_2025\week1","C:\Users\scott\sys-320_fall_2025\week1","False","True","C:\Users\scott\sys-320_fall_2025\week1\firstfile.ps1",".ps1","9/8/2025 2:25:12 PM","9/8/2025 6:25:12 PM","9/8/2025 2:29:38 PM","9/8/2025 6:29:38 PM","9/8/2025 2:29:38 PM","9/8/2025 6:29:38 PM","Archive"
