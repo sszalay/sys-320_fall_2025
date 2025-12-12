@@ -13,6 +13,15 @@ pageCount() {
     | uniq -c
 }
 
+countingCurlAccess() {
+  cat "$file" \
+    | grep "curl" \
+    | awk '{print $1}' \
+    | sort \
+    | uniq -c
+}
+
 
 #echo "$results"
-pageCount
+#pageCount
+countingCurlAccess
