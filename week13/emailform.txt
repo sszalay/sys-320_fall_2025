@@ -1,0 +1,8 @@
+To: scott.szalay@mymail.champlain.edu
+Subject: Logins
+Dec 12 scott
+Failed login attempts:
+    
+Successful logins:
+Dec 12 scott
+
