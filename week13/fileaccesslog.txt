@@ -1,5 +1,3 @@
-To: scott.szalay@mymail.champlain.edu
-Subject: File Accessed
 2025-12-12 21:49:58 - userlogs-1.bash was accessed
 2025-12-12 21:49:59 - userlogs-1.bash was accessed
 2025-12-12 21:50:00 - userlogs-1.bash was accessed
@@ -13,3 +11,4 @@ Subject: File Accessed
 2025-12-12 21:58:17 - userlogs-1.bash was accessed
 2025-12-12 21:58:47 - userlogs-1.bash was accessed
 2025-12-12 22:00:03 - userlogs-1.bash was accessed
+2025-12-12 22:00:42 - userlogs-1.bash was accessed
